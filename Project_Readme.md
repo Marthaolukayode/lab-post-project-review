@@ -1,4 +1,3 @@
-
 # Lesson Recapper – Project Management Lab
 
 ## Project Overview
